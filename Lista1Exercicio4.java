@@ -22,13 +22,6 @@ public class Lista1Exercicio4 {
         System.out.println("O valor do desconto foi de: "+VD);
         System.out.println("O valor final a ser pago foi de: "+PAG);
         
-        
-        
-        
-        
-        
-        
-        
     }
     
 }
